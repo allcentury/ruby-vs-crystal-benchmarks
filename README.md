@@ -1,6 +1,6 @@
 # About
 
-This is a general github repo for comparing performance of ruby vs crystal for commonn operations and classes.
+This is a general github repo for comparing performance of ruby vs crystal for common operations and classes.
 
 It is run in OSX:
 
